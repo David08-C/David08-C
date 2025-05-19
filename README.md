@@ -24,8 +24,8 @@ I'm a 16-year-old frontend developer focused on crafting clean, responsive, and 
 - **Other tools**: Git, Vite, VSCode
 
 ### 📫 Let's connect!
-- Email: [david@cortify.io](mailto:youremail@example.com)
-- Website: [cortify.io](https://yourwebsite.dev) *(if you have one)*
+- Email: [david@cortify.io](mailto:david@cortify.io)
+- Website: [cortify.io](https://cortify.io) *(if you have one)*
 
 ---
 
