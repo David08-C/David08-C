@@ -1,16 +1,33 @@
-## Hi there 👋
+## Hey there 👋 I'm David
 
-<!--
-**David08-C/David08-C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 16-year-old frontend developer focused on crafting clean, responsive, and component-based user interfaces.
 
-Here are some ideas to get you started:
+### 💻 What I do
+- 🧠 Self-taught JavaScript developer with a strong focus on UI/UX
+- 🧩 Build reusable and scalable components for web applications
+- 🌐 Design and develop modern websites with performance and user experience in mind
+- 🎨 Design high-fidelity prototypes and UI systems in Figma
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projects
+- **Cortify** – A growing UI library built with simplicity and consistency in mind.  
+  *Think fast development, aesthetic components, and clean design principles.*
+
+### 🌱 Currently learning
+- TypeScript
+- Advanced animation with Framer Motion
+- Full-stack development with Node.js & Supabase
+
+### 🛠️ Tech stack
+- **Languages**: JavaScript, HTML, CSS
+- **Frameworks/Libraries**: React, TailwindCSS
+- **Design**: Figma
+- **Other tools**: Git, Vite, VSCode
+
+### 📫 Let's connect!
+- Email: [david@cortify.com](mailto:youremail@example.com)
+- Website: [cortify.io](https://yourwebsite.dev) *(if you have one)*
+
+---
+
+> “Build what you wish existed.”  
+> — Me, probably 😄
